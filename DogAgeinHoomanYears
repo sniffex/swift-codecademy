@@ -1,7 +1,0 @@
-// 6 = Mingo's age
-var dogAge = 6
-var earlyYears = 21
-var laterYears = (dogAge-2) * 4
-var humanYears = earlyYears + laterYears
-
-print("My name is Mingo! Woof Woof, I am \(humanYears) years old in human years.")
